@@ -50,5 +50,4 @@ const FloatingParticles = memo(({ count = 20 }) => {
 FloatingParticles.displayName = "FloatingParticles";
 
 
-
 export default FloatingParticles;
