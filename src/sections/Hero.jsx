@@ -10,7 +10,7 @@ import HeroStats from "../components/HeroStats";
 import PhoneMockup from "../components/PhoneMockup";
 import FloatingParticles from "../components/FloatingParticles";
 
-import resumeFile from "/resume.pdf"; 
+import resumeFile from "/hitesh_resume.pdf"; 
 
 const Hero = () => {
   const [downloadState, setDownloadState] = useState("idle");
